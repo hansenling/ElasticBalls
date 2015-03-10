@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StartSpeed.cs">
+    <Files>
+      <File FileName="Assets\Scripts\StartSpeed.cs" Line="20" Column="37" />
+      <File FileName="Assets\Scripts\BallGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreText.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Hansen\Documents\ElasticBall\Assets\Scripts\BallGenerator.cs" line="16" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
